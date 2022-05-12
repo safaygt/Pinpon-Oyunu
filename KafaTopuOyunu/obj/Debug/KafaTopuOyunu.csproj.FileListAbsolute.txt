@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KafaTopuOyunu\KafaTopuOyunu\bin\Debug\KafaTopuOyunu.exe.config
+C:\Users\user\source\repos\KafaTopuOyunu\KafaTopuOyunu\bin\Debug\KafaTopuOyunu.exe
+C:\Users\user\source\repos\KafaTopuOyunu\KafaTopuOyunu\bin\Debug\KafaTopuOyunu.pdb
+C:\Users\user\source\repos\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.exe
+C:\Users\user\source\repos\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.pdb
